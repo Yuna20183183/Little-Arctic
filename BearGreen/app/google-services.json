@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88146380661",
+    "firebase_url": "https://beargreen-43458.firebaseio.com",
+    "project_id": "beargreen-43458",
+    "storage_bucket": "beargreen-43458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88146380661:android:30874c5019fb375142753c",
+        "android_client_info": {
+          "package_name": "com.bear.bear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88146380661-ki89p4m92217e6lbmnvp5vd43a5vavm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqrLdEssvVZsVpiSTIsSQguYG6uheMxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88146380661-ki89p4m92217e6lbmnvp5vd43a5vavm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
